@@ -18,7 +18,7 @@ Follow these steps to set up and run the project:
 
 ### 1. Clone the Repository  
 ```bash
-git clone https://github.com/esplanadeai/11labs_Outbound.git
+https://github.com/EmperorKunDis/11labs_Outbound.git
 ```
 
 ### 2. Navigate to the Project Directory
